@@ -4,6 +4,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/aethiopicuschan/config-go.svg)](https://pkg.go.dev/github.com/aethiopicuschan/config-go)
 [![Go Report Card](https://goreportcard.com/badge/github.com/aethiopicuschan/config-go)](https://goreportcard.com/report/github.com/aethiopicuschan/config-go)
 [![CI](https://github.com/aethiopicuschan/config-go/actions/workflows/ci.yaml/badge.svg)](https://github.com/aethiopicuschan/config-go/actions/workflows/ci.yaml)
+[![codecov](https://codecov.io/gh/aethiopicuschan/config-go/graph/badge.svg)](https://codecov.io/gh/aethiopicuschan/config-go)
 
 `config-go` is a Go library for handling configuration management in Go applications.
 
